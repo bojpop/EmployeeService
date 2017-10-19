@@ -7,8 +7,8 @@ using System.Runtime.Serialization;
 
 namespace EmployeeService
 {
-    [KnownType(typeof(FullTimeEmployee))]
-    [KnownType(typeof(PartTimeEmployee))]
+    //[KnownType(typeof(FullTimeEmployee))]
+    //[KnownType(typeof(PartTimeEmployee))]
     [DataContract]
     public class Employee
     {

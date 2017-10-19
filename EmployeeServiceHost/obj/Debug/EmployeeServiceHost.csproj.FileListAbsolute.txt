@@ -1,0 +1,8 @@
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\bojan.m.popovic\Documents\GitHub\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
