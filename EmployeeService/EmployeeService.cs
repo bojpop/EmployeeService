@@ -121,7 +121,7 @@ namespace EmployeeService
 
                     SqlParameter parameterHoursWorked = new SqlParameter
                     {
-                        ParameterName = "@HourlWorked",
+                        ParameterName = "@HoursWorked",
                         Value = ((PartTimeEmployee)employee).HoursWorked
                     };
                     cmd.Parameters.Add(parameterHoursWorked);
